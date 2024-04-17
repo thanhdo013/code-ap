@@ -1,0 +1,1090 @@
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\appsettings.Development.json
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\appsettings.json
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.staticwebassets.runtime.json
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.exe
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.deps.json
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.runtimeconfig.json
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.pdb
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.GeneratedMSBuildEditorConfig.editorconfig
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.AssemblyInfoInputs.cache
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.AssemblyInfo.cs
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.csproj.CoreCompileInputs.cache
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.MvcApplicationPartsAssemblyInfo.cache
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.RazorAssemblyInfo.cache
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.RazorAssemblyInfo.cs
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\obj\Debug\net8.0\staticwebassets.build.json
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\obj\Debug\net8.0\staticwebassets.development.json
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.TrainingFPTCo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.build.TrainingFPTCo.props
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TrainingFPTCo.props
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TrainingFPTCo.props
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\obj\Debug\net8.0\scopedcss\bundle\TrainingFPTCo.styles.css
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\obj\Debug\net8.0\scopedcss\projectbundle\TrainingFPTCo.bundle.scp.css
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\obj\Debug\net8.0\refint\TrainingFPTCo.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.pdb
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.genruntimeconfig.cache
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\obj\Debug\net8.0\ref\TrainingFPTCo.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\Azure.Core.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\Azure.Identity.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\Humanizer.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\System.CodeDom.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\System.Memory.Data.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.csproj.AssemblyReference.cache
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.sourcelink.json
+C:\setup\CSharp\TrainingFPTCo\TrainingFPTCo\obj\Debug\net8.0\Training.E9CFFE01.Up2Date
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\appsettings.json
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.staticwebassets.runtime.json
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.exe
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.deps.json
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.runtimeconfig.json
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.pdb
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\Humanizer.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.AssemblyInfo.cs
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.RazorAssemblyInfo.cache
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.RazorAssemblyInfo.cs
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.TrainingFPTCo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.build.TrainingFPTCo.props
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TrainingFPTCo.props
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TrainingFPTCo.props
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\obj\Debug\net8.0\scopedcss\bundle\TrainingFPTCo.styles.css
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\obj\Debug\net8.0\scopedcss\projectbundle\TrainingFPTCo.bundle.scp.css
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.csproj.CopyComplete
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\obj\Debug\net8.0\refint\TrainingFPTCo.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.pdb
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.genruntimeconfig.cache
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main\TrainingFPTCo\obj\Debug\net8.0\ref\TrainingFPTCo.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.AssemblyInfo.cs
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.RazorAssemblyInfo.cache
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.RazorAssemblyInfo.cs
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\obj\Debug\net8.0\refint\TrainingFPTCo.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.pdb
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\appsettings.json
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.staticwebassets.runtime.json
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.exe
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.deps.json
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.runtimeconfig.json
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.pdb
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\Humanizer.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.TrainingFPTCo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.build.TrainingFPTCo.props
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TrainingFPTCo.props
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TrainingFPTCo.props
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\obj\Debug\net8.0\scopedcss\bundle\TrainingFPTCo.styles.css
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\obj\Debug\net8.0\scopedcss\projectbundle\TrainingFPTCo.bundle.scp.css
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.csproj.CopyComplete
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.genruntimeconfig.cache
+C:\Users\admin\Downloads\30 - Application Development\30 - Application Development\code AD\ASP-MVC-Net-8-main - Copy\TrainingFPTCo\obj\Debug\net8.0\ref\TrainingFPTCo.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\appsettings.Development.json
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\appsettings.json
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.staticwebassets.runtime.json
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.exe
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.deps.json
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.runtimeconfig.json
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.pdb
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\Azure.Core.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\Azure.Identity.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\Humanizer.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\System.CodeDom.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.csproj.AssemblyReference.cache
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.AssemblyInfoInputs.cache
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.AssemblyInfo.cs
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.csproj.CoreCompileInputs.cache
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.MvcApplicationPartsAssemblyInfo.cache
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.RazorAssemblyInfo.cache
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.RazorAssemblyInfo.cs
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.TrainingFPTCo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.build.TrainingFPTCo.props
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TrainingFPTCo.props
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TrainingFPTCo.props
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\obj\Debug\net8.0\scopedcss\bundle\TrainingFPTCo.styles.css
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\obj\Debug\net8.0\scopedcss\projectbundle\TrainingFPTCo.bundle.scp.css
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\obj\Debug\net8.0\Training.E9CFFE01.Up2Date
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\obj\Debug\net8.0\refint\TrainingFPTCo.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.pdb
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.genruntimeconfig.cache
+D:\Code Thay Trieu\ASP-MVC-Net-8-main - Account\TrainingFPTCo\obj\Debug\net8.0\ref\TrainingFPTCo.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.csproj.AssemblyReference.cache
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.AssemblyInfoInputs.cache
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.AssemblyInfo.cs
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.csproj.CoreCompileInputs.cache
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.MvcApplicationPartsAssemblyInfo.cache
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.RazorAssemblyInfo.cache
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.RazorAssemblyInfo.cs
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\refint\TrainingFPTCo.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.pdb
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\appsettings.Development.json
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\appsettings.json
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.staticwebassets.runtime.json
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.exe
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.deps.json
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.runtimeconfig.json
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.pdb
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Azure.Core.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Azure.Identity.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Humanizer.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.CodeDom.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.TrainingFPTCo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.build.TrainingFPTCo.props
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TrainingFPTCo.props
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TrainingFPTCo.props
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\scopedcss\bundle\TrainingFPTCo.styles.css
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\scopedcss\projectbundle\TrainingFPTCo.bundle.scp.css
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\Training.E9CFFE01.Up2Date
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.genruntimeconfig.cache
+D:\Code Thay Trieu\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\ref\TrainingFPTCo.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\appsettings.json
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.staticwebassets.runtime.json
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.exe
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.deps.json
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.pdb
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Humanizer.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.RazorAssemblyInfo.cache
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.RazorAssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.sourcelink.json
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.TrainingFPTCo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.build.TrainingFPTCo.props
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TrainingFPTCo.props
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TrainingFPTCo.props
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\scopedcss\bundle\TrainingFPTCo.styles.css
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\scopedcss\projectbundle\TrainingFPTCo.bundle.scp.css
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\Training.E9CFFE01.Up2Date
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\refint\TrainingFPTCo.dll
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.pdb
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\TestCode\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\ref\TrainingFPTCo.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\appsettings.json
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.staticwebassets.runtime.json
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.exe
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.deps.json
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.pdb
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Humanizer.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.RazorAssemblyInfo.cache
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.RazorAssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.TrainingFPTCo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.build.TrainingFPTCo.props
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TrainingFPTCo.props
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TrainingFPTCo.props
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\scopedcss\bundle\TrainingFPTCo.styles.css
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\scopedcss\projectbundle\TrainingFPTCo.bundle.scp.css
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\Training.E9CFFE01.Up2Date
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\refint\TrainingFPTCo.dll
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.pdb
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\TestCode-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\ref\TrainingFPTCo.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\appsettings.json
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.staticwebassets.runtime.json
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.exe
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.deps.json
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.runtimeconfig.json
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\TrainingFPTCo.pdb
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Humanizer.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.csproj.AssemblyReference.cache
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.AssemblyInfoInputs.cache
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.AssemblyInfo.cs
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.csproj.CoreCompileInputs.cache
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.RazorAssemblyInfo.cache
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.RazorAssemblyInfo.cs
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.TrainingFPTCo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.build.TrainingFPTCo.props
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TrainingFPTCo.props
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TrainingFPTCo.props
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\scopedcss\bundle\TrainingFPTCo.styles.css
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\scopedcss\projectbundle\TrainingFPTCo.bundle.scp.css
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.csproj.CopyComplete
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\refint\TrainingFPTCo.dll
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.pdb
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\TrainingFPTCo.genruntimeconfig.cache
+C:\Users\vipqu\Downloads\TestCode-main-main\TestCode-main-main\ASP-MVC-Net-8\TrainingFPTCo\obj\Debug\net8.0\ref\TrainingFPTCo.dll

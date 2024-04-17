@@ -1,0 +1,12 @@
+﻿@model TrainingFPTCo.Models.AccountViewModel
+
+@{
+    ViewData["title"] = "Accounts";
+    ViewData["breadcrumb"] = "Home";
+    ViewData["breadcrumb_active"] = "Account";
+    Layout = "~/Views/Shared/_LayoutMain.cshtml";
+
+    bool statusAdd = Convert.ToBoolean(TempData["saveStatus"]);
+    bool statusDel = Convert.ToBoolean(TempData["statusDelete"]);
+    bool statusUpdate = Convert.ToBoolean(TempData["updateStatus"]);
+}
